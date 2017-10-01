@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>AndroidTreeView</id>
+    <version>1.0.0</version>
+    <authors>Mushtaq</authors>
+    <owners>Mushtaq</owners>
+    <licenseUrl>https://github.com/bmelnychuk/AndroidTreeView/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bmelnychuk/AndroidTreeView</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/bmelnychuk/AndroidTreeView/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin Android Binding for Tree View</description>
+    <releaseNotes>Xamarin Android Binding for Tree View.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>AndroidTreeView</tags>
+  </metadata>
+	<files>
+		<file src="F:\01.MyWorks\0XamarinWorkSpace\libs\TreeView\TreeViewBinding\bin\Release\TreeViewBinding.dll" target="lib\TreeViewBinding.dll"/>
+	</files>
+</package>
